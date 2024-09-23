@@ -1,4 +1,5 @@
-# Tests des Algorithmes de Tri Pierru Mathéo
+# Tests des Algorithmes de Tri 
+Pierru Mathéo
 
 ## Introduction
 L'objectif de cette étude est de comparer les performances de différents algorithmes de tri en termes de temps d'exécution. Les algorithmes testés sont : tri par sélection, tri par insertion, tri rapide et tri par fusion.
