@@ -23,19 +23,19 @@ Test N°1 avec 10 éléments :
 
 On peut voir que le tri le plus rapide pour l'instant est le tri par **insertion**, suivi par le tri rapide.
 
-![](/Images_test/Figure_1.png )
+![](./image/Figure_1.jpg )
 
 Pour le test n°2 avec 100 éléments :
 
 On peut voir que maintenant le tri le plus rapide est le **tri rapide**, suivi par le **tri par insertion**.
-![](/Images_test/Figure_2.png)
+![](./image/Figure_2.jpg)
 
 
 Enfin, pour le test n°3 avec 500 éléments :
 
 On peut remarquer que les tris les plus rapides n'ont pas changé, mais pour les tris les plus lents, on peut observer une inversion entre le **tri par fusion** et le **tri par sélection**.
 
-![](/Images_test/Figure_3.png)
+![](./image/Figure_3.jpg)
 
 
 ## Résultats des Tests avec Sort 
@@ -43,7 +43,7 @@ On peut remarquer que les tris les plus rapides n'ont pas changé, mais pour les
 Pour les différents Test avec le Sort, on peut remarquer que le Tri avec le Sort reste tout le temps à 0
 
 
-![](/Images_test/Figure_5.png) ![](/Images_test/Figure_4.png)
+![](./image/Figure_5.jpg) ![](./image/Figure_4.jpg)
 
 
 ## Conclusion
